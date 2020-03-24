@@ -4,3 +4,17 @@
   font-weight: bold;
   
 }
+
+.hight-light{
+  background-color: green;
+  color: white;
+  border: 10px solid gray;
+  
+  padding: 5px;
+  margin: 5px;
+  width: 300px;
+}
+img{
+  height: 200px;
+  width: 200px;
+}
